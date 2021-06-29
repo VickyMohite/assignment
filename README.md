@@ -1,1 +1,1 @@
-Accignment repository
+Assignment repository - Snake and ladder game
